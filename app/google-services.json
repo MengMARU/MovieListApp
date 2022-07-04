@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057032749474",
+    "project_id": "movielistfinal",
+    "storage_bucket": "movielistfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057032749474:android:b34c53f298b502d0d572fb",
+        "android_client_info": {
+          "package_name": "com.fahmiamaru.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057032749474-inof72ia04rulu3dls0mcbo64606n80f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWM6KcfCrmVEnpbQJvienfooc-0apLdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057032749474-inof72ia04rulu3dls0mcbo64606n80f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
